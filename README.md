@@ -1,1 +1,1 @@
-# double-array-seq
+a collection of doubles with many different functions
